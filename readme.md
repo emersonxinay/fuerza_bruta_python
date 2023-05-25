@@ -12,6 +12,6 @@ cd fuerza_bruta_python
 
 ### desde la terminal ejercutar lo siguiente
 ```bash
-python3 fuerza_bruta.py
+python3 fuerza_bruta_python
 ```
 ### recuerda que al ejecutar e ingresar un password no se vera reflejado lo que escribes porque esta oculto 
