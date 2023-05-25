@@ -18,7 +18,7 @@ def buscar_password(longitud):
             print("password encontrada:", password)
             print(f"Numero de combinaciones:{contador}")
             return True
-    print("No se encontró ninguna coincidencia.")
+    print(f"No se encontró ninguna coincidencia con {longitud} caracteres, posiblemente tenga mas caracteres.")
     print(f"Numero de combinaciones:{contador}")
     return False
 contra = int(input("ingrese un número para el tamaño de longitud de su password: "))
